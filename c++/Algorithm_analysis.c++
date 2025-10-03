@@ -26,5 +26,7 @@ int main()
               cout << endl;
        }
 
+       cout<<"matrix is printed";
+
        return 0;
 }
